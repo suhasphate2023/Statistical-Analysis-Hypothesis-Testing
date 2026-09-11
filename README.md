@@ -1,4 +1,4 @@
-# Week 3: Statistical Analysis and Hypothesis Testing in Python
+# Statistical Analysis and Hypothesis Testing in Python Week 3
 
 ## 📌 Project Overview
 
