@@ -1,4 +1,4 @@
-# Statistical Analysis and Hypothesis Testing in Python Week 3
+# Statistical Analysis and Hypothesis Testing in Python 
 
 ## 📌 Project Overview
 
@@ -201,7 +201,7 @@ Through this project, we learn how to:
 
 ## 👨‍🎓 Project
 
-**Week 3 Task – Statistical Analysis and Hypothesis Testing in Python**
+**Statistical Analysis and Hypothesis Testing in Python**
 
 **Topic:** Student Performance and Test Preparation
 
